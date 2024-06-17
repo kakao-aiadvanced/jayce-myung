@@ -1,0 +1,3 @@
+[submodule "chain-of-thought-hub"]
+	path = chain-of-thought-hub
+	url = https://github.com/FranxYao/chain-of-thought-hub
